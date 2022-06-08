@@ -161,6 +161,8 @@ MonoBehaviour:
   - {fileID: 5618842594013461094, guid: 75ea199343dfbd4408af280ec15a6cc9, type: 3}
   - {fileID: 5682918392463215856, guid: 1d9fff08886c96243b3540e25175952b, type: 3}
   - {fileID: 6498282213680661406, guid: b2b50d5e180b26d4eb2b0202e77e1598, type: 3}
+  leftClones: []
+  rightClones: []
   tileSpawn:
   - {fileID: 1887514986}
   - {fileID: 458856013}
@@ -263,7 +265,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh16164
+  m_Name: pb_Mesh16262
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -740,7 +742,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh16202
+  m_Name: pb_Mesh16300
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -1003,7 +1005,7 @@ GameObject:
   - component: {fileID: 943348715}
   m_Layer: 0
   m_Name: SpawnTiles
-  m_TagString: Untagged
+  m_TagString: Script
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1038,6 +1040,8 @@ MonoBehaviour:
   - {fileID: 5618842594013461094, guid: 75ea199343dfbd4408af280ec15a6cc9, type: 3}
   - {fileID: 5682918392463215856, guid: 1d9fff08886c96243b3540e25175952b, type: 3}
   - {fileID: 6498282213680661406, guid: b2b50d5e180b26d4eb2b0202e77e1598, type: 3}
+  leftClones: []
+  rightClones: []
   count: 0
   limit: 5
   limitGreen: 7

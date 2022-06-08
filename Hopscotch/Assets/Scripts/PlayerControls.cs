@@ -6,9 +6,9 @@ public class PlayerControls : MonoBehaviour
 {
     public GameObject[] player;
     public GameObject[] tile;
-    
-    //public GameObject leftTile;
-    //public GameObject rightTile;
+
+    public List<GameObject> leftClones = new List<GameObject>(); //lists tiles in the left column.
+    public List<GameObject> rightClones = new List<GameObject>(); //lists tiles in the right column.
 
     public Transform[] tileSpawn;
     
@@ -26,6 +26,12 @@ public class PlayerControls : MonoBehaviour
     public int zLocation = 0; //player's location along the z axis.
 
 
+    void Start()
+    {
+        leftClones = GameObject.FindGameObjectWithTag("Script").GetComponent<SpawnTiles>().leftClones;
+        rightClones = GameObject.FindGameObjectWithTag("Script").GetComponent<SpawnTiles>().rightClones;
+    }
+    
     void Update()
     {
         if (Input.GetKeyDown("w"))
@@ -105,13 +111,13 @@ public class PlayerControls : MonoBehaviour
     }
 
     void CycleLeft()
+        //cycles left tile forward once (red --> amber --> green --> red).
     {
         if (leftActive)
         {
             if (leftRed)
             {
                 Instantiate(tile[1], tileSpawn[0].position, Quaternion.identity);
-                //DestroyImmediate(tile[0], true);
             }
             if (leftAmber)
             {
@@ -122,6 +128,8 @@ public class PlayerControls : MonoBehaviour
                 Instantiate(tile[0], tileSpawn[0].position, Quaternion.identity);
             }
         }
+        GameObject.Destroy(leftClones[0]);
+        leftClones[0] = null;
         CheckGreen();
     }
 
@@ -132,8 +140,25 @@ public class PlayerControls : MonoBehaviour
     }
 
     void CycleRight()
+        //cycles right tile forward once (red --> amber --> green --> red).
     {
-
+        if (rightActive)
+        {
+            if (rightRed)
+            {
+                Instantiate(tile[1], tileSpawn[1].position, Quaternion.identity);
+            }
+            if (rightAmber)
+            {
+                Instantiate(tile[2], tileSpawn[1].position, Quaternion.identity);
+            }
+            if (rightGreen)
+            {
+                Instantiate(tile[0], tileSpawn[1].position, Quaternion.identity);
+            }
+        }
+        GameObject.Destroy(rightClones[0]);
+        rightClones[0] = null;
         CheckGreen();
     }
 

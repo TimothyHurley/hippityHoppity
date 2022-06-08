@@ -4,18 +4,19 @@ using UnityEngine;
 
 public class SpawnTiles : MonoBehaviour
 {
-    public GameObject[] tile;//Amber;
-    //public GameObject tileGreen;
-    //public GameObject tileRed;
+    public GameObject[] tile;
 
-    public int count = 0; //counts how many tiles have spawned.
-    public int limit = 5; //limits number of tile spawns per column.
-    public int limitGreen = 7; //limits frequency of green tile spawns by x amount.
-    public int number = 0; //determines what tile will spawn (0 = red, 1 = amber, 2 = green).
-    public int zDistance = 7; //distance between spawns along the z axis.
+    public List<GameObject> leftClones = new List<GameObject>(); //lists tiles in the left column.
+    public List<GameObject> rightClones = new List<GameObject>(); //lists tiles in the right column.
+
+    [HideInInspector] public int count = 0; //counts how many tiles have spawned.
+    [HideInInspector] public int limit = 5; //limits number of tile spawns per column.
+    [HideInInspector] public int limitGreen = 7; //limits frequency of green tile spawns by x amount.
+    [HideInInspector] public int number = 0; //determines what tile will spawn (0 = red, 1 = amber, 2 = green).
+    [HideInInspector] public int zDistance = 7; //distance between spawns along the z axis.
 
 
-    void Start()
+    void Awake()
     {
         Generate();
     }
@@ -40,19 +41,19 @@ public class SpawnTiles : MonoBehaviour
             number = Random.Range(0, 3);
             if (number == 0)
             {
-                Instantiate(tile[0], leftSpawn, Quaternion.identity);
+                leftClones.Add(Instantiate(tile[0], leftSpawn, Quaternion.identity));
                 limitGreen = limitGreen + 1;
             }
             if (number == 1)
             {
-                Instantiate(tile[1], leftSpawn, Quaternion.identity);
+                leftClones.Add(Instantiate(tile[1], leftSpawn, Quaternion.identity));
                 limitGreen = limitGreen + 1;
             }
             if (number == 2)
             {
                 if (limitGreen >= 7)
                 {
-                    Instantiate(tile[2], leftSpawn, Quaternion.identity);
+                    leftClones.Add(Instantiate(tile[2], leftSpawn, Quaternion.identity));
                     limitGreen = 0;
                 }
                 else
@@ -60,12 +61,12 @@ public class SpawnTiles : MonoBehaviour
                     number = Random.Range(0, 2);
                     if (number == 0)
                     {
-                        Instantiate(tile[0], leftSpawn, Quaternion.identity);
+                        leftClones.Add(Instantiate(tile[0], leftSpawn, Quaternion.identity));
                         limitGreen = limitGreen + 1;
                     }
                     if (number == 1)
                     {
-                        Instantiate(tile[1], leftSpawn, Quaternion.identity);
+                        leftClones.Add(Instantiate(tile[1], leftSpawn, Quaternion.identity));
                         limitGreen = limitGreen + 1;
                     }
                 }
@@ -83,19 +84,19 @@ public class SpawnTiles : MonoBehaviour
             number = Random.Range(0, 3);
             if (number == 0)
             {
-                Instantiate(tile[0], rightSpawn, Quaternion.identity);
+                rightClones.Add(Instantiate(tile[0], rightSpawn, Quaternion.identity));
                 limitGreen = limitGreen + 1;
             }
             if (number == 1)
             {
-                Instantiate(tile[1], rightSpawn, Quaternion.identity);
+                rightClones.Add(Instantiate(tile[1], rightSpawn, Quaternion.identity));
                 limitGreen = limitGreen + 1;
             }
             if (number == 2)
             {
                 if (limitGreen >= 7)
                 {
-                    Instantiate(tile[2], rightSpawn, Quaternion.identity);
+                    rightClones.Add(Instantiate(tile[2], rightSpawn, Quaternion.identity));
                     limitGreen = 0;
                 }
                 else
@@ -103,12 +104,12 @@ public class SpawnTiles : MonoBehaviour
                     number = Random.Range(0, 2);
                     if (number == 0)
                     {
-                        Instantiate(tile[0], rightSpawn, Quaternion.identity);
+                        rightClones.Add(Instantiate(tile[0], rightSpawn, Quaternion.identity));
                         limitGreen = limitGreen + 1;
                     }
                     if (number == 1)
                     {
-                        Instantiate(tile[1], rightSpawn, Quaternion.identity);
+                        rightClones.Add(Instantiate(tile[1], rightSpawn, Quaternion.identity));
                         limitGreen = limitGreen + 1;
                     }
                 }

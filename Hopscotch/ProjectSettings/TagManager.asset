@@ -9,6 +9,7 @@ TagManager:
   - Red
   - Left
   - Right
+  - Script
   layers:
   - Default
   - TransparentFX
