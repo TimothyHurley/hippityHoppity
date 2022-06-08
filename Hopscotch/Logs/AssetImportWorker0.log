@@ -15,11 +15,11 @@ C:/Users/s210954/Desktop/GitGood/hippityHoppity/Hopscotch
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-49792
+53108
 Successfully changed project path to: C:/Users/s210954/Desktop/GitGood/hippityHoppity/Hopscotch
 C:/Users/s210954/Desktop/GitGood/hippityHoppity/Hopscotch
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 22.20 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 23.24 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.5f1 (8095aa901b9b)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Resources/UnitySubsystems
@@ -35,262 +35,130 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56736
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56148
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001342 seconds.
+Registered in 0.001334 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 22.87 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 23.34 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.383 seconds
+- Completed reload, in  1.447 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000519 seconds.
+Registered in 0.000594 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file data-000002167C119030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
+Symbol file data-00000264EF1AF010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Assembly-CSharp.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216769CD090 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file data-00000264F39CDD10 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216769CD090 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
+Symbol file data-00000264F4FF6020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167610D020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
+Symbol file data-00000264F4FF6020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167A9E2A30 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file data-00000264EF0F9020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B2DE030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file data-00000264EF94B630 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167BD9C4F0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
+Symbol file data-00000264F3B02B70 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167BDA8030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
+Symbol file data-00000264F4343E10 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676A25050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file data-00000264F3AAF040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AE42020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file data-00000264EEFBC010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676A25050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file data-00000264F4406020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167ACF2020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file data-00000264EEFDB420 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676A25050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file data-00000264F3AC4020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B2E7440 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
+Symbol file data-00000264F3AE9E30 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167ADC7A30 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file data-00000264EF15BE70 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AE61430 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
+Symbol file data-00000264F4433A30 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD46020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
+Symbol file data-00000264F3E10020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B52CE20 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file data-00000264F3E10020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676224C40 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
+Symbol file data-00000264F4349030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F4349030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
 Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.639 seconds
+- Completed reload, in  0.744 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
-Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1478 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1477 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 72.3 MB.
 System memory in use after: 72.3 MB.
 
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1921.
-Total: 1.702900 ms (FindLiveObjects: 0.226200 ms CreateObjectMapping: 0.047900 ms MarkObjects: 1.343100 ms  DeleteObjects: 0.085000 ms)
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1920.
+Total: 20.284300 ms (FindLiveObjects: 18.178700 ms CreateObjectMapping: 0.145600 ms MarkObjects: 1.831000 ms  DeleteObjects: 0.127500 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Prefabs/Tile_Amber.prefab
-  artifactKey: Guid(1d9fff08886c96243b3540e25175952b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Tile_Amber.prefab using Guid(1d9fff08886c96243b3540e25175952b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1be0811af11b9e76116ab83143392ff7') in 0.037788 seconds
-  Import took 0.040173 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000256 seconds.
-  path: Assets/Prefabs/Tile_Green.prefab
-  artifactKey: Guid(b2b50d5e180b26d4eb2b0202e77e1598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Tile_Green.prefab using Guid(b2b50d5e180b26d4eb2b0202e77e1598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '810acb8efc63cea00b0ef1396fe50660') in 0.007163 seconds
-  Import took 0.009162 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000191 seconds.
-  path: Assets/Prefabs/Tile_Red.prefab
-  artifactKey: Guid(75ea199343dfbd4408af280ec15a6cc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Tile_Red.prefab using Guid(75ea199343dfbd4408af280ec15a6cc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fa7bfa752a5acdf721282a67f33852c') in 0.006597 seconds
-  Import took 0.008538 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000462 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000002167C236840 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167DBE9C70 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167DBE9C70 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021670F94450 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AEEA020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216760A2230 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676939BD0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167BFE4030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676055010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD9A020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B03A020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B2A7020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676055010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676223040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B2D4A30 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B828010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167698F880 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C37D020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C324930 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.641 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1451 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.1 MB.
-System memory in use after: 70.2 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1924.
-Total: 1.583200 ms (FindLiveObjects: 0.183900 ms CreateObjectMapping: 0.056000 ms MarkObjects: 1.265300 ms  DeleteObjects: 0.077100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000596 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000002167B604020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EBB1CD0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EBB1CD0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EB5E9B0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167BFCC010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216769C6890 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216760814D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167DB90090 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167DB82020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E300080 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167BFCC010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD9A020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676138950 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216763A1DD0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216761A7760 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C8EF030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167A9D0010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167CF0AA40 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B52CE20 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.624 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1451 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.2 MB.
-System memory in use after: 70.2 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1927.
-Total: 1.768300 ms (FindLiveObjects: 0.213900 ms CreateObjectMapping: 0.051100 ms MarkObjects: 1.410100 ms  DeleteObjects: 0.091100 ms)
+  path: Assets/Scripts/PlayerControls.cs
+  artifactKey: Guid(fb08db78bba136643b1232a60df27340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControls.cs using Guid(fb08db78bba136643b1232a60df27340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da9e026a0a455340093bd74bb0dcbb3b') in 0.027008 seconds
+  Import took 0.030074 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
 Registered in 0.000518 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file data-000002167D8CFEF0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
+Symbol file data-00000264EF3D7370 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D42AD80 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file data-00000264EF620E70 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D42AD80 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
+Symbol file data-00000264EF620E70 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B058A50 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
+Symbol file data-00000264F434BA30 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167CBFF010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file data-00000264EF0B0E50 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA23F80 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file data-00000264EF637F10 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F49DFF0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
+Symbol file data-00000264EEDC2100 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA00030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
+Symbol file data-00000264F39D5FA0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D857050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file data-00000264F3AF8AA0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676567EC0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file data-00000264EF258E50 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167DCD5030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file data-00000264F3AF8AA0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C219020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file data-00000264F3D56010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B18E030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file data-00000264F3AF8AA0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676223040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
+Symbol file data-00000264F45D4420 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D566F50 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file data-00000264F3AF8AA0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D409030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
+Symbol file data-00000264F4036020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D4F6E40 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
+Symbol file data-00000264EF931010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000214CE9B9B50 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file data-00000264F4D9BF50 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EB33C80 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
+Symbol file data-00000264F443F230 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
 Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
@@ -299,124 +167,57 @@ Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
 - Completed reload, in  0.626 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1451 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.2 MB.
-System memory in use after: 70.2 MB.
+Unloading 1450 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.0 MB.
+System memory in use after: 70.1 MB.
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1930.
-Total: 1.636100 ms (FindLiveObjects: 0.159300 ms CreateObjectMapping: 0.040700 ms MarkObjects: 1.365300 ms  DeleteObjects: 0.069900 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1923.
+Total: 1.993900 ms (FindLiveObjects: 0.457300 ms CreateObjectMapping: 0.150300 ms MarkObjects: 1.302100 ms  DeleteObjects: 0.081500 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000468 seconds.
+Registered in 0.000469 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file data-000002167CFD7030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
+Symbol file data-00000264EF0C1BC0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AA7A030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file data-00000264F3934D50 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AA7A030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
+Symbol file data-00000264F3934D50 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AAA1010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
+Symbol file data-00000264F4D6A030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167ABD5020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file data-00000264F52DD010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD82020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file data-00000264F661A350 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F498DD0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
+Symbol file data-00000265179946E0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA00030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
+Symbol file data-00000264F47EB030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676444440 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file data-00000264F67651C0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D703E10 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file data-00000264F549B830 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B285040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file data-00000264EF14A010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E8AC010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file data-00000264F645F2B0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676444440 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file data-00000264F4341020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676223040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
+Symbol file data-00000264EF9ACE00 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216761A7760 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file data-00000264F3AF8260 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AF01E60 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
+Symbol file data-00000264EF0D9010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D4F6E40 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
+Symbol file data-00000264EF931010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000214CE9B9B50 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file data-00000264F456F020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AE80020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.642 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1451 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.2 MB.
-System memory in use after: 70.2 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1933.
-Total: 1.523100 ms (FindLiveObjects: 0.148500 ms CreateObjectMapping: 0.046400 ms MarkObjects: 1.256800 ms  DeleteObjects: 0.070300 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 480.462616 seconds.
-  path: Assets/Scripts/MovePlayer.cs
-  artifactKey: Guid(c0f2d3f4f89919c4a9c722da9b2f5969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/MovePlayer.cs using Guid(c0f2d3f4f89919c4a9c722da9b2f5969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a294ebc4e79828430bb3d9f641a5ccfd') in 0.009730 seconds
-  Import took 0.011794 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000589 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000002167D8CFEF0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D4B1020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D4B1020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B058A50 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AAF6020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD82020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B571DD0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D8B1BB0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B285040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D2F5BC0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD22050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167A9D0010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B285040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AA8C510 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676622FE0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D4BC9E0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C219020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167661D050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D7C3840 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
+Symbol file data-00000264EF133310 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
 Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
@@ -425,123 +226,332 @@ Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
 - Completed reload, in  0.625 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1451 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.2 MB.
-System memory in use after: 70.2 MB.
+Unloading 1450 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.1 MB.
+System memory in use after: 70.1 MB.
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1936.
-Total: 1.786300 ms (FindLiveObjects: 0.183000 ms CreateObjectMapping: 0.049100 ms MarkObjects: 1.475900 ms  DeleteObjects: 0.076600 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1926.
+Total: 1.663400 ms (FindLiveObjects: 0.164900 ms CreateObjectMapping: 0.052000 ms MarkObjects: 1.371800 ms  DeleteObjects: 0.073700 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000432 seconds.
+Registered in 0.000406 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file data-000002167D842200 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
+Symbol file data-00000264F458FE40 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C327200 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file data-00000264F51DE040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C327200 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
+Symbol file data-00000264F51DE040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216762BCDF0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
+Symbol file data-00000264F458FE40 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B8A0020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file data-00000264F6900D00 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD82020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file data-00000264F6283E50 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B5714B0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
+Symbol file data-000002651798A730 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D8B1BB0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
+Symbol file data-00000264F47EB030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216769C6010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file data-00000264F61F6030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167CA60060 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file data-00000264F549B830 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD22050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file data-00000264F6900D00 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D29CD50 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file data-00000264F3DAA010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216769C6010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file data-00000264F61F6030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AA8C510 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
+Symbol file data-00000264F458FE40 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676622FE0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file data-000002651799A460 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D409030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
+Symbol file data-00000264EF0D9010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D93D030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
+Symbol file data-00000264EF3FCF50 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167661D050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file data-00000264F3A4CA00 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167CC0F020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
+Symbol file data-00000264F4784030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
 Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.617 seconds
+- Completed reload, in  0.621 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1451 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.2 MB.
-System memory in use after: 70.2 MB.
+Unloading 1450 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.1 MB.
+System memory in use after: 70.1 MB.
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1939.
-Total: 2.911300 ms (FindLiveObjects: 0.386200 ms CreateObjectMapping: 0.181100 ms MarkObjects: 2.234900 ms  DeleteObjects: 0.107700 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1929.
+Total: 2.322200 ms (FindLiveObjects: 0.249700 ms CreateObjectMapping: 0.095800 ms MarkObjects: 1.900700 ms  DeleteObjects: 0.074900 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000584 seconds.
+Registered in 0.000530 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file data-000002167C9E0010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
+Symbol file data-00000264F45C2060 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B165D60 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file data-00000264F4D9FEC0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D6F9B80 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
+Symbol file data-00000264F4D9FEC0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D576F60 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
+Symbol file data-00000264F62682C0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD22050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file data-00000264F3C0E020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD82020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file data-00000264F67F4B60 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167693A060 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
+Symbol file data-00000264F4055250 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216769CE020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
+Symbol file data-00000264C7993A90 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676138950 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file data-00000264F651B1D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E9B8F10 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file data-0000026517DA2F20 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EF33040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file data-00000264EF14A010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F0BB010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file data-00000264F63C9010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676138950 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file data-00000264EF6F96E0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676223040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
+Symbol file data-00000264F676D9E0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216761A7760 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file data-00000264F639BF10 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167BEA8050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
+Symbol file data-00000264F62BF690 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D29CD50 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
+Symbol file data-00000264EF931010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167661D050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file data-00000264F456F020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AE80020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
+Symbol file data-00000264EF292060 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.652 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1450 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.1 MB.
+System memory in use after: 70.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1932.
+Total: 1.500500 ms (FindLiveObjects: 0.149900 ms CreateObjectMapping: 0.042800 ms MarkObjects: 1.234200 ms  DeleteObjects: 0.072600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000516 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000264F396B020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F661E360 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F661E360 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026517DE2F40 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026517326030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F647F2C0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F4053260 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264C7993A90 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F651B1D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F63FC9E0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F6805BB0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F3AC4020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026517A2F020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F67F8B70 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F639BF10 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026517496010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026517496010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F44AE020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264EF292060 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.672 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1450 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.1 MB.
+System memory in use after: 70.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1935.
+Total: 1.571200 ms (FindLiveObjects: 0.162500 ms CreateObjectMapping: 0.054300 ms MarkObjects: 1.276600 ms  DeleteObjects: 0.076400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 972.739806 seconds.
+  path: Assets/Scripts/MovePlayer.cs
+  artifactKey: Guid(b600f273ead04f749a467f392aba4ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MovePlayer.cs using Guid(b600f273ead04f749a467f392aba4ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd71273099660bd5a4245586f123d416a') in 0.004505 seconds
+  Import took 0.006820 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000525 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000264F5B4F010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F6620370 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F6620370 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F62682C0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F3C0E020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264EF849A90 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026518637B80 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F5CFF100 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F64B4AF0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026517DA2030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F4438010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F474C030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F64B4AF0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F5275980 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002651799A460 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F6900D00 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F65EE820 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F456F020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F6551020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.638 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1451 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.1 MB.
+System memory in use after: 70.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1939.
+Total: 1.483200 ms (FindLiveObjects: 0.145000 ms CreateObjectMapping: 0.042100 ms MarkObjects: 1.221800 ms  DeleteObjects: 0.073400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 159.028474 seconds.
+  path: Assets/Scripts/MovePlayer.cs
+  artifactKey: Guid(b600f273ead04f749a467f392aba4ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MovePlayer.cs using Guid(b600f273ead04f749a467f392aba4ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '238e41173eea8354dbe96c73d89f2f14') in 0.005022 seconds
+  Import took 0.006990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.988531 seconds.
+  path: Assets/Scripts/MovePlayer.cs
+  artifactKey: Guid(b600f273ead04f749a467f392aba4ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MovePlayer.cs using Guid(b600f273ead04f749a467f392aba4ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '733d89ccff2b129bb16a2bf03b53ae74') in 0.002801 seconds
+  Import took 0.004777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.712449 seconds.
+  path: Assets/Scripts/MovePlayer.cs
+  artifactKey: Guid(b600f273ead04f749a467f392aba4ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MovePlayer.cs using Guid(b600f273ead04f749a467f392aba4ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8db83104244ad2534298b289ed35972f') in 0.003041 seconds
+  Import took 0.005028 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000718 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000264F43F2050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F47EB030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F47EB030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264EF234430 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F4036020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264EF849A90 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026518630E00 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264C79A9CF0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F6805BB0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F68A5C50 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F4438010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002651756A030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F6805BB0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264EF234430 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F62100D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F645F2B0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F3DAA010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F456F020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000264F5F7C020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
 Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.623 seconds
+- Completed reload, in  0.610 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
@@ -550,1194 +560,148 @@ System memory in use before: 70.2 MB.
 System memory in use after: 70.2 MB.
 
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1942.
-Total: 1.649400 ms (FindLiveObjects: 0.167000 ms CreateObjectMapping: 0.043700 ms MarkObjects: 1.345200 ms  DeleteObjects: 0.092300 ms)
+Total: 1.558100 ms (FindLiveObjects: 0.147000 ms CreateObjectMapping: 0.042800 ms MarkObjects: 1.293700 ms  DeleteObjects: 0.073500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.620314 seconds.
+  path: Assets/Scripts/MovePlayer.cs
+  artifactKey: Guid(b600f273ead04f749a467f392aba4ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MovePlayer.cs using Guid(b600f273ead04f749a467f392aba4ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0676aafefb087f500c5025da05afe16') in 0.005522 seconds
+  Import took 0.007496 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000473 seconds.
+Registered in 0.000568 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file data-000002167B5EF020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
+Symbol file data-00000264F6531290 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E865D90 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file data-00000264EF23E020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D6F9B80 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
+Symbol file data-00000264EF23E020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676A91030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
+Symbol file data-00000264F548A780 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD22050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file data-0000026518014020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD82020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file data-00000265181A0030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D512520 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
+Symbol file data-00000264F402B280 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216769CE020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
+Symbol file data-00000264EF00E410 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676444440 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file data-00000264F61F6030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E9B8F10 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file data-00000265189F5010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167BEDC020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file data-0000026517810020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F0BB010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file data-00000264EF3FCF50 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676444440 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file data-00000264F61F6030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AF23010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
+Symbol file data-00000264F67F8B70 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676547010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file data-00000264F395B010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167BEA8050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
+Symbol file data-00000264EF258E50 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D29CD50 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
+Symbol file data-00000264EF258E50 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167661D050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file data-00000264F5589020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167CA9E020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
+Symbol file data-00000264EF292060 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
 Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.618 seconds
+- Completed reload, in  0.604 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1451 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 70.2 MB.
 System memory in use after: 70.2 MB.
 
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1945.
-Total: 2.028400 ms (FindLiveObjects: 0.247900 ms CreateObjectMapping: 0.107700 ms MarkObjects: 1.593000 ms  DeleteObjects: 0.078300 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000431 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000002167B724040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B72BA00 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B72BA00 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B34DA60 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD22050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD82020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D514E30 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676451600 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676444440 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B2A7020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EF33040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F0BB010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676444440 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AA8C510 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C107010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676984840 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F40C050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167661D050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F87D010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.628 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1451 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.2 MB.
-System memory in use after: 70.3 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1948.
-Total: 1.626600 ms (FindLiveObjects: 0.187800 ms CreateObjectMapping: 0.048600 ms MarkObjects: 1.317400 ms  DeleteObjects: 0.072000 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000456 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000002167B33B040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B72BA00 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B72BA00 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167DB2CBA0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD22050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD82020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D5100A0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E588050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EB78010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B2A7020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EF33040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F0BB010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EB78010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AA8C510 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676547010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676984840 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F40C050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167661D050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F87D010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.632 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1451 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.2 MB.
-System memory in use after: 70.3 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1951.
-Total: 2.162700 ms (FindLiveObjects: 0.158700 ms CreateObjectMapping: 0.050000 ms MarkObjects: 1.857300 ms  DeleteObjects: 0.095800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000465 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000002167B724040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B054020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B054020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167DB1CBB0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD22050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD82020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169FB45010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E588050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EF33040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B2A7020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B285040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167A9D0010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EF33040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167CBC3430 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C107010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167BEA8050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B2A7020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167661D050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F87D010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.639 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1451 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.2 MB.
-System memory in use after: 70.3 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1954.
-Total: 2.150500 ms (FindLiveObjects: 0.204000 ms CreateObjectMapping: 0.098800 ms MarkObjects: 1.760700 ms  DeleteObjects: 0.085800 ms)
+Total: 1.600900 ms (FindLiveObjects: 0.167400 ms CreateObjectMapping: 0.051300 ms MarkObjects: 1.306800 ms  DeleteObjects: 0.074800 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1332.190295 seconds.
+  Time since last request: 2189.745526 seconds.
   path: Assets/Scripts/MovePlayer.cs
-  artifactKey: Guid(c0f2d3f4f89919c4a9c722da9b2f5969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/MovePlayer.cs using Guid(c0f2d3f4f89919c4a9c722da9b2f5969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80ecdb90851f11568b6e168ea1aec3e3') in 0.005414 seconds
-  Import took 0.007665 seconds .
+  artifactKey: Guid(b600f273ead04f749a467f392aba4ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MovePlayer.cs using Guid(b600f273ead04f749a467f392aba4ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55026178aab44bcf46c7e8eb646eac81') in 0.005588 seconds
+  Import took 0.007753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.760079 seconds.
+  path: Assets/Scripts/MovePlayer.cs
+  artifactKey: Guid(b600f273ead04f749a467f392aba4ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MovePlayer.cs using Guid(b600f273ead04f749a467f392aba4ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9308ac25283dc54ddffefbad5dc04952') in 0.003149 seconds
+  Import took 0.005961 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000446 seconds.
+Registered in 0.000444 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file data-000002167BDA8030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
+Symbol file data-00000264F4D9E020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E865D20 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file data-00000264F6551020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E865D20 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
+Symbol file data-00000264F6551020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021671027E60 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
+Symbol file data-00000264C79AD360 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD22050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file data-00000264F3BB2010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD82020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file data-0000026517424020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169FB45DC0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
+Symbol file data-00000265179A5B30 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E588050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
+Symbol file data-00000264EEFA4840 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676444440 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file data-00000264F6316020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B2A7020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file data-0000026517BCDEE0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F1B9010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file data-00000264F61F6030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F0BB010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file data-0000026517AFD010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676444440 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file data-00000264F6316020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167CBC3430 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
+Symbol file data-00000264F62682C0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676547010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file data-00000264F65B4530 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167BEA8050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
+Symbol file data-00000264F3E30030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B2A7020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
+Symbol file data-00000264F657D4C0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167661D050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file data-00000264F6504020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F87D010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.625 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1451 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.2 MB.
-System memory in use after: 70.3 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1957.
-Total: 1.865600 ms (FindLiveObjects: 0.178600 ms CreateObjectMapping: 0.049100 ms MarkObjects: 1.560600 ms  DeleteObjects: 0.075900 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000421 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000002167AF29030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B054020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B054020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216A000D4D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD22050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD82020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167DCDA740 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D2E7DE0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA032D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA39BD0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EF33040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F0BB010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA032D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AA8C510 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C107010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216769A4870 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AE42020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167661D050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E33E020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.611 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1450 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.2 MB.
-System memory in use after: 70.3 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1959.
-Total: 1.713200 ms (FindLiveObjects: 0.157800 ms CreateObjectMapping: 0.043700 ms MarkObjects: 1.433900 ms  DeleteObjects: 0.076800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000426 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000002167AF29030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B054020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D6F9B80 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216A0011910 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD22050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD82020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D45D7D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D2E7DE0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA032D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA39BD0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EF33040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F0BB010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA032D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AA8C510 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676547010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216769A4870 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA39BD0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167661D050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AE74020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.600 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1450 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.2 MB.
-System memory in use after: 70.3 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1962.
-Total: 2.244000 ms (FindLiveObjects: 0.388500 ms CreateObjectMapping: 0.191500 ms MarkObjects: 1.583100 ms  DeleteObjects: 0.079700 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000476 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000002167D8B1BB0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EF3CE70 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EF3CE70 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216A0009090 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B704020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD82020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167693EDF0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D2E7DE0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA032D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B2A7020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F071020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167DC24020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA032D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169FC1F4E0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C107010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AE42020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167A9D0010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C11A040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F87D010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.663 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1450 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.2 MB.
-System memory in use after: 70.3 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1965.
-Total: 1.652500 ms (FindLiveObjects: 0.162700 ms CreateObjectMapping: 0.046000 ms MarkObjects: 1.373600 ms  DeleteObjects: 0.069400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000434 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000002167C9E0010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D4B1020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D4B1020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216A000A1A0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C8CF030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD82020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169FFA2700 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D2E7DE0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA032D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B2A7020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C8CF030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167DC24020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA032D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169FC1F4E0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676547010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E71A050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167A9D0010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C11A040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F87D010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
+Symbol file data-00000264F46B4070 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
 Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.616 seconds
+- Completed reload, in  0.642 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1450 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1451 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 70.2 MB.
-System memory in use after: 70.3 MB.
+System memory in use after: 70.2 MB.
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1968.
-Total: 1.630500 ms (FindLiveObjects: 0.175000 ms CreateObjectMapping: 0.049200 ms MarkObjects: 1.331500 ms  DeleteObjects: 0.073600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000437 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000002167AF29030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D45DCA0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D45DCA0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216A000E5E0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C8CF030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD82020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167DCD7E30 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B848040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA032D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E9B8F10 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C8CF030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167DC24020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA032D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AA8C510 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C107010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169FBFE040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167A9D0010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C11A040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F87D010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.626 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1450 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.3 MB.
-System memory in use after: 70.3 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1971.
-Total: 1.871000 ms (FindLiveObjects: 0.220400 ms CreateObjectMapping: 0.070400 ms MarkObjects: 1.494300 ms  DeleteObjects: 0.084600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000483 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000002167AF29030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B054020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B054020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216A000F6F0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676075060 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD82020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169FA8D040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B848040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA032D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E9B8F10 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676075060 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167A9D0010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA032D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AA8C510 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676547010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167A9D0010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167A9D0010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C11A040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F87D010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.636 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1450 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.2 MB.
-System memory in use after: 70.3 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1974.
-Total: 1.577300 ms (FindLiveObjects: 0.153700 ms CreateObjectMapping: 0.043500 ms MarkObjects: 1.312800 ms  DeleteObjects: 0.066400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000561 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000002167D8DFF00 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D4B1020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D4B1020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216A000A1A0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C8CF030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD82020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167693E040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216A09EF010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA032D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E9B8F10 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C8CF030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167DC24020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA032D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AA8C510 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C107010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216A0384040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167A9D0010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C11A040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F87D010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.616 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1450 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.2 MB.
-System memory in use after: 70.3 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1977.
-Total: 1.567300 ms (FindLiveObjects: 0.153000 ms CreateObjectMapping: 0.042800 ms MarkObjects: 1.298200 ms  DeleteObjects: 0.071900 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000733 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000002167C9E0010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D4B1020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D6F9B80 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216A000D4D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C8CF030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD82020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676631450 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216A09EF010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D62D020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E9B8F10 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C8CF030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F0BB010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676444440 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AA8C510 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676547010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA39BD0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA39BD0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C11A040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F87D010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.643 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1450 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.3 MB.
-System memory in use after: 70.3 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1980.
-Total: 1.804400 ms (FindLiveObjects: 0.171500 ms CreateObjectMapping: 0.047400 ms MarkObjects: 1.503100 ms  DeleteObjects: 0.081500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000439 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000002167AF29030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167DBDFD60 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D6F9B80 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216A0009090 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676075060 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD82020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676631450 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E575060 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA032D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E90F040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676075060 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167DC24020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA032D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167CBC3430 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C107010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F071020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F071020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C11A040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216A0A31020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.649 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1450 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.3 MB.
-System memory in use after: 70.3 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1983.
-Total: 1.933800 ms (FindLiveObjects: 0.220000 ms CreateObjectMapping: 0.077400 ms MarkObjects: 1.550100 ms  DeleteObjects: 0.085600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000449 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000002167A9F8030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167644E270 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167644E270 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216A000A1A0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E62E050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD82020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167662CFE0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E575060 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA032D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E90F040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E62E050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F0BB010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA032D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167CBC3430 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676547010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169FB17020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F071020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C11A040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216A0A31020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.647 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1450 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.3 MB.
-System memory in use after: 70.3 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1986.
-Total: 1.617000 ms (FindLiveObjects: 0.175500 ms CreateObjectMapping: 0.052500 ms MarkObjects: 1.303400 ms  DeleteObjects: 0.084500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000458 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000002167AF29030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D4B1020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D4B1020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216A000D4D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E62E050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD82020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167662BDA0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676451600 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA032D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216A053A020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E62E050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167DC24020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA032D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AA8C510 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C107010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AE42020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E9C8F30 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C11A040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F87D010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.632 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1450 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.3 MB.
-System memory in use after: 70.3 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1989.
-Total: 1.479300 ms (FindLiveObjects: 0.164400 ms CreateObjectMapping: 0.043000 ms MarkObjects: 1.201300 ms  DeleteObjects: 0.069400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000530 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000002167AF29030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167DBDFD60 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167D6F9B80 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216A000D4D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E62E050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD82020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676625940 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676451600 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA032D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216A053A020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E62E050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F0BB010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA032D0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AA8C510 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676547010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E8D4BA0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E9C8F30 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C11A040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169FD9B010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.633 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1450 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.3 MB.
-System memory in use after: 70.3 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1992.
-Total: 2.178700 ms (FindLiveObjects: 0.299500 ms CreateObjectMapping: 0.128900 ms MarkObjects: 1.658600 ms  DeleteObjects: 0.090300 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000785 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000002167A9F8030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B054020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA0DCE0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216A0009090 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E62E050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD82020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676626260 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167A9FA870 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E62E050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169FC63020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E62E050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167DC24020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E62E050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167CBC3430 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C107010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216A0510040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA39BD0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C11A040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216A0C49010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.628 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1450 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.3 MB.
-System memory in use after: 70.3 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1995.
-Total: 1.678600 ms (FindLiveObjects: 0.164100 ms CreateObjectMapping: 0.041100 ms MarkObjects: 1.401700 ms  DeleteObjects: 0.071000 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000476 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000002167A9F8030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169FC1E060 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169FC1E060 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216A0019080 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167A9E0030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD82020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216766306A0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167A9FA870 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167640D010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169FC63020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167A9E0030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169F0BB010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167640D010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167CBC3430 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676547010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216A0510040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA39BD0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C11A040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216A0C49010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.633 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1450 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.3 MB.
-System memory in use after: 70.3 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1998.
-Total: 1.756900 ms (FindLiveObjects: 0.166100 ms CreateObjectMapping: 0.045500 ms MarkObjects: 1.475400 ms  DeleteObjects: 0.068500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000972 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000002167AF29030 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B054020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B054020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216A0009090 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E62E050 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AD82020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167662B480 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021676451600 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Settings.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167640D010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216A0384040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C5F2020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167DC24020 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167640D010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167AA8C510 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167B2D7060 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169E8D4BA0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002169EA39BD0 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002167C11A040 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000216A0AF7010 doesn't match image C:\Users\s210954\Desktop\GitGood\hippityHoppity\Hopscotch\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.643 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1450 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.3 MB.
-System memory in use after: 70.3 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2001.
-Total: 2.019300 ms (FindLiveObjects: 0.270000 ms CreateObjectMapping: 0.099900 ms MarkObjects: 1.572300 ms  DeleteObjects: 0.075600 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1948.
+Total: 1.746500 ms (FindLiveObjects: 0.169100 ms CreateObjectMapping: 0.046900 ms MarkObjects: 1.441400 ms  DeleteObjects: 0.088400 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
