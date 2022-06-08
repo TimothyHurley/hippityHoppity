@@ -12,9 +12,6 @@ public class PlayerControls : MonoBehaviour
 
     public Transform[] tileSpawn;
     
-    public bool leftActive = false; //checks if left tile exists.
-    public bool rightActive = false; //checks if right tile exists.
-
     public bool leftAmber = false; //detects if left tile is amber.
     public bool leftGreen = false; //detects if left tile is green.
     public bool leftRed = false; //detects if left tile is red.
@@ -58,125 +55,126 @@ public class PlayerControls : MonoBehaviour
     {
         if (player[0].tag == "Left")
         {
-            leftActive = true;
-            Debug.Log("leftActive = " + leftActive);
-            if (other.gameObject.tag == "Red")
+            if (leftClones[0].tag == "Red")
             {
                 leftAmber = false;
                 leftGreen = false;
                 leftRed = true;
             }
-            if (other.gameObject.tag == "Amber")
+            if (leftClones[0].tag == "Amber")
             {
                 leftAmber = true;
                 leftGreen = false;
                 leftRed = false;
             }
-            if (other.gameObject.tag == "Green")
+            if (leftClones[0].tag == "Green")
             {
                 leftAmber = false;
                 leftGreen = true;
-                leftRed = true;
+                leftRed = false;
             }
         }
         if (player[1].tag == "Right")
         {
-            rightActive = true;
-            Debug.Log("rightActive = " + rightActive);
-            if (other.gameObject.tag == "Red")
+            if (rightClones[0].tag == "Red")
             {
                 rightAmber = false;
                 rightGreen = false;
                 rightRed = true;
             }
-            if (other.gameObject.tag == "Amber")
+            if (rightClones[0].tag == "Amber")
             {
                 rightAmber = true;
                 rightGreen = false;
                 rightRed = false;
             }
-            if (other.gameObject.tag == "Green")
+            if (rightClones[0].tag == "Green")
             {
                 rightAmber = false;
                 rightGreen = true;
                 rightRed = false;
             }
         }
+        if (leftGreen && rightGreen)
+        {
+            MovePlayer();
+        }
     }
 
     void CycleBoth()
     {
 
-        CheckGreen();
     }
 
     void CycleLeft()
         //cycles left tile forward once (red --> amber --> green --> red).
     {
-        if (leftActive)
+        if (leftRed)
         {
-            if (leftRed)
-            {
-                Instantiate(tile[1], tileSpawn[0].position, Quaternion.identity);
-            }
-            if (leftAmber)
-            {
-                Instantiate(tile[2], tileSpawn[0].position, Quaternion.identity);
-            }
-            if (leftGreen)
-            {
-                Instantiate(tile[0], tileSpawn[0].position, Quaternion.identity);
-            }
+            GameObject.Destroy(leftClones[0]);
+            leftClones.Add(leftClones[0] = Instantiate(tile[1], tileSpawn[0].position, Quaternion.identity));
         }
-        GameObject.Destroy(leftClones[0]);
-        leftClones[0] = null;
-        CheckGreen();
+        if (leftAmber)
+        {
+            GameObject.Destroy(leftClones[0]);
+            leftClones.Add(leftClones[0] = Instantiate(tile[2], tileSpawn[0].position, Quaternion.identity));
+        }
+        if (leftGreen)
+        {
+            GameObject.Destroy(leftClones[0]);
+            leftClones.Add(leftClones[0] = Instantiate(tile[0], tileSpawn[0].position, Quaternion.identity));
+        }
+        RemoveElements();
     }
 
     void CycleBackward()
     {
 
-        CheckGreen();
     }
 
     void CycleRight()
         //cycles right tile forward once (red --> amber --> green --> red).
     {
-        if (rightActive)
+        if (rightRed)
         {
-            if (rightRed)
-            {
-                Instantiate(tile[1], tileSpawn[1].position, Quaternion.identity);
-            }
-            if (rightAmber)
-            {
-                Instantiate(tile[2], tileSpawn[1].position, Quaternion.identity);
-            }
-            if (rightGreen)
-            {
-                Instantiate(tile[0], tileSpawn[1].position, Quaternion.identity);
-            }
+            GameObject.Destroy(rightClones[0]);
+            rightClones.Add(rightClones[0] = Instantiate(tile[1], tileSpawn[1].position, Quaternion.identity));
         }
-        GameObject.Destroy(rightClones[0]);
-        rightClones[0] = null;
-        CheckGreen();
+        if (rightAmber)
+        {
+            GameObject.Destroy(rightClones[0]);
+            rightClones.Add(rightClones[0] = Instantiate(tile[2], tileSpawn[1].position, Quaternion.identity));
+        }
+        if (rightGreen)
+        {
+            GameObject.Destroy(rightClones[0]);
+            rightClones.Add(rightClones[0] = Instantiate(tile[0], tileSpawn[1].position, Quaternion.identity));
+        }
+        RemoveElements();
     }
 
-    void CheckGreen()
+    void MovePlayer()
         //checks if both tiles are green and, if yes, moves player up to next row of tiles.
     {
-        if (leftGreen && rightGreen)
+        for (int i = 0; i < zLocation; i += zDistance)
         {
-            for (int i = 0; i < zLocation; i += zDistance)
-            {
-                transform.position = transform.position + new Vector3(0, 0, zDistance);
-            }
-            zLocation = 0 + zDistance;
-            Debug.Log("new transform = " + transform.position);
+            transform.position = transform.position + new Vector3(0, 0, zDistance);
         }
-        else
+        zLocation = 0 + zDistance;
+        Debug.Log("new transform = " + transform.position);
+    }
+
+    void RemoveElements()
+    {
+        if (leftClones.Count > 5)
         {
-            Debug.Log("sausage");
+            leftClones.RemoveAt(5);
+            RemoveElements();
+        }
+        if (rightClones.Count > 5)
+        {
+            rightClones.RemoveAt(5);
+            RemoveElements();
         }
     }
 }

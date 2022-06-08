@@ -133,7 +133,6 @@ GameObject:
   m_Component:
   - component: {fileID: 22934117}
   - component: {fileID: 22934116}
-  - component: {fileID: 22934115}
   - component: {fileID: 22934114}
   m_Layer: 0
   m_Name: _Player
@@ -166,33 +165,12 @@ MonoBehaviour:
   tileSpawn:
   - {fileID: 1887514986}
   - {fileID: 458856013}
-  leftActive: 0
-  rightActive: 0
   leftAmber: 0
   leftGreen: 0
   leftRed: 0
   rightAmber: 0
   rightGreen: 0
   rightRed: 0
-  zDistance: 7
-  zLocation: 0
---- !u!114 &22934115
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 22934113}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c0f2d3f4f89919c4a9c722da9b2f5969, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  player:
-  - {fileID: 1887514985}
-  - {fileID: 458856012}
-  leftGreen: 0
-  rightGreen: 0
   zDistance: 7
   zLocation: 0
 --- !u!54 &22934116
@@ -265,7 +243,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh16262
+  m_Name: pb_Mesh16164
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -742,7 +720,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh16300
+  m_Name: pb_Mesh16202
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
