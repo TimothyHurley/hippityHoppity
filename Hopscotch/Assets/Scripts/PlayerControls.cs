@@ -166,6 +166,12 @@ public class PlayerControls : MonoBehaviour
         zLocation = transform.position.z;
         leftClones.RemoveAt(0);
         rightClones.RemoveAt(0);
+
+        GameObject.FindGameObjectWithTag("Script").GetComponent<SpawnTiles>().count = 0;
+        GameObject.FindGameObjectWithTag("Script").GetComponent<SpawnTiles>().countStop = 2;
+        GameObject.FindGameObjectWithTag("Script").GetComponent<SpawnTiles>().limit = 1;
+        GameObject.FindGameObjectWithTag("Script").GetComponent<SpawnTiles>().zSpawn = transform.position.z + 28;
+        GameObject.FindGameObjectWithTag("Script").GetComponent<SpawnTiles>().Generate();
     }
 
     void RemoveElements()

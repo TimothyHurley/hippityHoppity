@@ -10,6 +10,7 @@ TagManager:
   - Left
   - Right
   - Script
+  - Destroy
   layers:
   - Default
   - TransparentFX
