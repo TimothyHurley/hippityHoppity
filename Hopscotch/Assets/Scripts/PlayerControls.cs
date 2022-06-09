@@ -7,8 +7,6 @@ public class PlayerControls : MonoBehaviour
     public GameObject[] player;
     public GameObject[] tile;
 
-    public GameObject movePlayer;
-
     public List<GameObject> leftClones = new List<GameObject>(); //lists tiles in the left column.
     public List<GameObject> rightClones = new List<GameObject>(); //lists tiles in the right column.
 
@@ -21,19 +19,23 @@ public class PlayerControls : MonoBehaviour
     public bool rightGreen = false; //detects if right tile is green.
     public bool rightRed = false; //detects if right tile is red.
 
-    /*public int zDistance = 7; //distance player will move along the z axis.
-    public int zLocation = 0; //player's location along the z axis.*/
+    public float zLocation = 0; //player's location along the z axis.
+
+    public int zDistance = 7; //distance player will move along the z axis.
 
 
     void Start()
     {
         leftClones = GameObject.FindGameObjectWithTag("Script").GetComponent<SpawnTiles>().leftClones;
         rightClones = GameObject.FindGameObjectWithTag("Script").GetComponent<SpawnTiles>().rightClones;
-        //movePlayer = GameObject.GetComponent<MovePlayer>();
     }
     
     void Update()
     {
+        if (leftGreen && rightGreen)
+        {
+            MovePlayer();
+        }
         if (Input.GetKeyDown("w"))
         {
             CycleBoth();
@@ -98,10 +100,6 @@ public class PlayerControls : MonoBehaviour
                 rightRed = false;
             }
         }
-        if (leftGreen && rightGreen)
-        {
-            //movePlayer = GameObject.GetComponent<SpawnTiles>().player[0];
-        }
     }
 
     void CycleBoth()
@@ -126,10 +124,6 @@ public class PlayerControls : MonoBehaviour
         {
             GameObject.Destroy(leftClones[0]);
             leftClones.Add(leftClones[0] = Instantiate(tile[0], tileSpawn[0].position, Quaternion.identity));
-            if (rightGreen)
-            {
-                //MovePlayer();
-            }
         }
         RemoveElements();
     }
@@ -156,24 +150,23 @@ public class PlayerControls : MonoBehaviour
         {
             GameObject.Destroy(rightClones[0]);
             rightClones.Add(rightClones[0] = Instantiate(tile[0], tileSpawn[1].position, Quaternion.identity));
-            if (leftGreen)
-            {
-                //MovePlayer();
-            }
         }
         RemoveElements();
     }
 
-    /*void MovePlayer()
+    void MovePlayer()
         //checks if both tiles are green and, if yes, moves player up to next row of tiles.
     {
-        for (int i = 0; i < zLocation; i += zDistance)
+        leftGreen = false;
+        rightGreen = false;
+        for (float i = transform.position.z; i < zLocation + zDistance; i += zDistance)
         {
             transform.position = transform.position + new Vector3(0, 0, zDistance);
         }
-        zLocation = 0 + zDistance;
-        Debug.Log("new transform = " + transform.position);
-    }*/
+        zLocation = transform.position.z;
+        leftClones.RemoveAt(0);
+        rightClones.RemoveAt(0);
+    }
 
     void RemoveElements()
     {
